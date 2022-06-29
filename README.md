@@ -18,6 +18,7 @@
   <a href="https://github.com/jakec-dev/resume/raw/main/certificates/Udemy%20course%20-%20ES6%20Javascript%20-%20The%20Complete%20Developers%20Guide.jpg" target="_blank"><img src="https://github.com/jakec-dev/resume/raw/main/certificates/Udemy%20course%20-%20ES6%20Javascript%20-%20The%20Complete%20Developers%20Guide.jpg" width="49%" /></a>
   <a href="https://github.com/jakec-dev/resume/raw/main/certificates/Udemy%20course%20-%20Python%20OOP%20-%20Four%20Pillars%20of%20OOP%20in%20Python3%20for%20Beginners.jpg" target="_blank"><img src="https://github.com/jakec-dev/resume/raw/main/certificates/Udemy%20course%20-%20Python%20OOP%20-%20Four%20Pillars%20of%20OOP%20in%20Python3%20for%20Beginners.jpg" width="49%" /></a>
   <a href="https://github.com/jakec-dev/resume/raw/main/certificates/Udemy%20course%20-%20SOLID%20Principles%20-%20Introducing%20Software%20Architecture%20%26%20Design.jpg" target="_blank"><img src="https://github.com/jakec-dev/resume/raw/main/certificates/Udemy%20course%20-%20SOLID%20Principles%20-%20Introducing%20Software%20Architecture%20%26%20Design.jpg" width="49%" /></a>
+    <a href="https://raw.githubusercontent.com/jakec-dev/resume/main/certificates/Udemy%20course%20-%20Unit%20Testing%20and%20Test%20Driven%20Development%20in%20NodeJS.jpg" target="_blank"><img src="https://raw.githubusercontent.com/jakec-dev/resume/main/certificates/Udemy%20course%20-%20Unit%20Testing%20and%20Test%20Driven%20Development%20in%20NodeJS.jpg" width="49%" /></a>
 </div>
 
 
